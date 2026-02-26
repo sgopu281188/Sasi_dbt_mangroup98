@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: HR
+    database: COMPANY
+    schema: HR
+    tables:
+      - name: employees
+      - name: locations
