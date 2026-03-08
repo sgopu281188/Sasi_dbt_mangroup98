@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: DE_L1
+    database: PSB_DIS
+    schema: DE_L1
+    tables:
+      - name: employees

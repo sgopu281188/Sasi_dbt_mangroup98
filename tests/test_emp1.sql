@@ -1,0 +1,1 @@
+SELECT * FROM {{ ref('employeesmpg') }} WHERE employee_no = 8
