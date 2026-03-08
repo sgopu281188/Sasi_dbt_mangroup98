@@ -6,3 +6,4 @@ sources:
     schema: DE_L1
     tables:
       - name: employees
+      - name: departments

@@ -9,3 +9,11 @@ models:
         tests:
          - unique
          - not_null
+  - name : departments
+    description : "dep"
+    columns:
+      - name : department_id
+        description : "employeesdep"
+        tests:
+         - unique
+         - not_null
