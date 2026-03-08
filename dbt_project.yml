@@ -41,4 +41,5 @@ models:
     example:
       +materialized: table
 vars:
-  YEARS: [7]
+  manager_ids: [100]
+  employee_ids: [100,101,102]
